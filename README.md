@@ -18,3 +18,8 @@
 
 1. On peut créer une nouvelle branche pour faire des changements sans affecter la branche Master
 2. Quand les changements sont ok, on merge (via Github uniquement) en faisant un pull request puis merge
+
+
+-----
+
+Si on fait des changements via Github, il faut pull le projet pour bien avoir la dernière version
