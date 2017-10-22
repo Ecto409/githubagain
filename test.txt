@@ -1,3 +1,5 @@
-On fait des tests dans un .txt 
+On fait des tests dans un .txt
 
 On ajoute une ligne via Github
+
+Et on récupère le changement en faisant un pull via Atom.
